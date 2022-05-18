@@ -20,7 +20,7 @@ public class MovieView {
 		movieAltered.setDate("04/03/2004");
 		movieAltered.setId(null);
 		
-		movieController.movieAlter(movieAltered);
+		movieController.movieList();
 		
 
 

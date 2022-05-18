@@ -59,6 +59,7 @@ public class MovieRepository {
 
 		factory.close();
 		manager.close();
+		System.out.println(movies);
 		return movies;
 	}
 	
